@@ -1,0 +1,60 @@
+
+.background-colors{
+    background: #9cdaec; /* For browsers that do not support gradients */
+  background: -webkit-linear-gradient(left,#9cdaec,#5bc0de); /*Safari 5.1-6*/
+  background: -o-linear-gradient(right,#9cdaec,#5bc0de); /*Opera 11.1-12*/
+  background: -moz-linear-gradient(right,#9cdaec,#5bc0de); /*Fx 3.6-15*/
+  background: linear-gradient(to right, #9cdaec, #5bc0de); /*Standard*/
+
+}
+
+.padd-top-10px{
+    padding-top: 10px;
+}
+
+.padd-top-40px{
+    padding-top: 40px;
+}
+
+.common-div-margin{
+    margin-left: 100px; 
+    margin-right: 100px; 
+    margin-top: 20px;
+}
+
+#map{
+    width: 100%; 
+    height: 400px;
+    margin-top: 20px;
+    border: 3px solid #ccc;
+}
+
+#day1{
+    height: 300px; 
+    margin: 10px; 
+    background-color: #EF8C9E;
+}
+
+#day2{
+    height: 300px; 
+    margin: 10px; 
+    background-color: #C390D4;
+}
+
+#day3{
+     height: 300px; 
+     margin: 10px; 
+     background-color: #92D57B;
+}
+
+#day4{
+    height: 300px; 
+    margin: 10px; 
+    background-color: #D4A190;
+}
+
+#day5{
+    height: 300px; 
+    margin: 10px; 
+    background-color: #D4B890;
+}

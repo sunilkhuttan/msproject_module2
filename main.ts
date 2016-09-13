@@ -16,8 +16,6 @@ class DaysWeather{
         this.highTemp = high;
         this.condition = condition;
         this.image = image;
-    }
-
-    
+    } 
 
 }

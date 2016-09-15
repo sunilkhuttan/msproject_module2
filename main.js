@@ -34,7 +34,7 @@ $(document).on('click', '#search', function () {
         });
     } else {
         url = "http://api.wunderground.com/api/70d544f28782df8e/forecast10day/q/" + country + "/" + city + ".json";
-
+        $('#city-country').empty();
         //alert(url);
         $.get(url, function (data, status) {
             weatherData = data;

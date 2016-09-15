@@ -1,10 +1,12 @@
 
 .background-colors{
-    background: #9cdaec; /* For browsers that do not support gradients */
-  background: -webkit-linear-gradient(left,#9cdaec,#5bc0de); /*Safari 5.1-6*/
-  background: -o-linear-gradient(right,#9cdaec,#5bc0de); /*Opera 11.1-12*/
-  background: -moz-linear-gradient(right,#9cdaec,#5bc0de); /*Fx 3.6-15*/
-  background: linear-gradient(to right, #9cdaec, #5bc0de); /*Standard*/
+   background: #54B2D8; /* For browsers that do not support gradients */
+  background: -webkit-linear-gradient(left,#AED6F1  ,#5EBCC8); /*Safari 5.1-6*/
+ background: -o-linear-gradient(right,#AED6F1  ,#5EBCC8); /*Opera 11.1-12*/
+  background: -moz-linear-gradient(right,#AED6F1  ,#5EBCC8); /*Fx 3.6-15*/
+  background: linear-gradient(to right, #AED6F1  , #5EBCC8); /*Standard*/
+
+  
 
 }
 
@@ -17,10 +19,16 @@
     padding-top: 10px;
 }
 
+.margin-bottom-10px{
+    margin-bottom: 10px;
+}
 .padd-top-40px{
     padding-top: 40px;
 }
 
+.padd-left-0px{
+    padding-left: 0px;
+}
 .common-div-margin{
     margin-left: 100px; 
     margin-right: 100px; 
